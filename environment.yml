@@ -1,0 +1,12 @@
+name: petrol_resit_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - pytest
+  - jupyter
